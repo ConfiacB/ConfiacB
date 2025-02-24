@@ -20,7 +20,7 @@ Je suis un ingénieur français.
 Je fais du développement web, du développement d'application cross-platform, ...    
 J'aime essayer de nouvelles choses.   
 
-### :books: My Skills/ interest in :   
+### :books: My Skills :   
 
 <br />
 <div>
