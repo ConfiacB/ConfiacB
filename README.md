@@ -3,10 +3,8 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
-### :man: About Me :
+---
+### :dog2: About Me :
 
 I'm a French IT Engineer.   
 I do web development, cross-platform app development, ...   
@@ -19,8 +17,8 @@ I love trying new things.
 Je suis un ingénieur français.    
 Je fais du développement web, du développement d'application cross-platform, ...    
 J'aime essayer de nouvelles choses.   
-
-### :books: My Skills :   
+---
+### :computer: Tech Stack :   
 
 <br />
 <div>
