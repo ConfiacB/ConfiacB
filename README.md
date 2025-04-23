@@ -8,11 +8,11 @@
 
 ### 🐕 About Me :
 
-I'm a French IT Engineer.<br/>
+I'm a French Software Engineer.<br/>
 I do web and cross-platform app development.<br/>
 I love trying new things.
 
-프랑스 IT 엔지니어입니다.<br/>
+프랑스 소프트웨어 엔지니어입니다.<br/>
 웹 개발과 크로스플랫폼 애플리케이션 개발 하고 있어요.<br/> 
 새로운 것을 시도하는 것을 좋아해요.
 
