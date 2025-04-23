@@ -13,7 +13,7 @@ I do web and cross-platform app development.<br/>
 I love trying new things.
 
 프랑스 소프트웨어 엔지니어입니다.<br/>
-웹 개발과 크로스플랫폼 애플리케이션 개발 하고 있어요.<br/> 
+웹과 크로스플랫폼 애플리케이션 개발 해요.<br/> 
 새로운 것을 시도하는 것을 좋아해요.
 
 ### 💻 My Skills :   
