@@ -14,11 +14,7 @@ I love trying new things.
 
 프랑스 IT 엔지니어입니다.<br/>
 웹 개발과 크로스플랫폼 애플리케이션 개발 하고 있어요.<br/> 
-새로운 것을 시도하는 것을 좋아해요.    
-  
-Je suis un ingénieur français.<br/> 
-Je développe des applications web et cross-platform.<br/>
-J'aime essayer de nouvelles choses.
+새로운 것을 시도하는 것을 좋아해요.
 
 ### 💻 My Skills :   
 
