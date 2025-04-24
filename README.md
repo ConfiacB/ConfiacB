@@ -23,7 +23,7 @@ I love trying new things.
 <div>
   <img src="https://skillicons.dev/icons?i=js,ts,go,java"/><br />
   <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nodejs,spring"/><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws"/> <img src="https://cdn.brandfetch.io/idn5Z7NsQz/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1673170590859" width="50" style="border-radius:50%"/><br />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws"/> <img src="https://cdn.brandfetch.io/idn5Z7NsQz/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1673170590859" width="50"/><br />
 <br />
 <br />
 
